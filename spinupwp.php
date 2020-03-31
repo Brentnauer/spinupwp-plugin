@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name:  SpinupWP
-Plugin URI:   https://spinupwp.com
-Description:  SpinupWP helper plugin.
-Author:       Delicious Brains
+Plugin Name:  RainStone Cache Manager
+Plugin URI:   https://rainstone.digital
+Description:  This plugin helps clear your cache after you edit a page.
+Author:       RainStone Digital
 Version:      1.1.2
 Network:      True
 Text Domain:  spinupwp
